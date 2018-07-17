@@ -1,0 +1,22 @@
+<!doctype html> 맨위에 관용 적으로 넣음
+<html> </html> 그다음 전체를 묶음
+<head> 타이틀 및 인코딩 묶음 </head>
+<body> 본문 묶음 </body>
+
+
+<strong> 내용 </strong>  : 진하게
+<u> 내용 </u> : 밑줄
+<h1~h6> 내용 </h1~/h6> : 제목 1~6레벨
+<p> 단락내용 </p> : 단락을 나타냄
+<br> : 줄바꿈
+<img src="경로" width="100%" or "350"> : 이미지 로드
+
+List 는 li 와 ul 또는 ol 이 같이 있음
+<li> 항목 <li> : List
+<ul>항목</ul>: List를 묶을때 사용 , Unordered List
+<ol>항목</ol>: List를 묶을때 사용 ,Ordered List   , 숫자가 자동으로 생김
+
+<title> 타이틀 명 </title> : 타이틀 이름
+<meta charset="utf-8"> : utf-8 로 인코딩
+
+<a href="링크주소" target="_blank" title="링크 타이틀">링크 표시 내용</a>
